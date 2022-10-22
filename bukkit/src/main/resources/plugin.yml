@@ -1,0 +1,8 @@
+name: ChatTranslator
+version: 0.1
+main: it.stredox02.chattranslator.bukkit.ChatTranslator
+author: Stredox02
+commands:
+  chattranslator:
+    aliases: [translator]
+  language:
